@@ -1,0 +1,1 @@
+echo "Login to snapchat using your email Id"
